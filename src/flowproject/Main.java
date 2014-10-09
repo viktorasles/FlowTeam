@@ -17,7 +17,7 @@ public class Main {
     
     public static void main(String[] args) {
         
-      pl.setNameEntry("Viktor");  
+      //pl.setNameEntry("Viktor");  
         
     }
     
